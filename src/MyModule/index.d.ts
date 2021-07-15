@@ -1,3 +1,5 @@
+/// <reference path = "./ComponentA/index.d.ts" />
+
 declare module 'MyModule' {
   export interface ComponentBProps {
     address: string;
