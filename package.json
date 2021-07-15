@@ -1,0 +1,22 @@
+{
+  "name": "vscode-icon-issue",
+  "version": "1.0.0",
+  "description": "Dummy repo to reproduce a vscode icon issue",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shirshendubhowmick/vscode-icon-issue.git"
+  },
+  "author": "Shirshendu Bhowmick",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shirshendubhowmick/vscode-icon-issue/issues"
+  },
+  "homepage": "https://github.com/shirshendubhowmick/vscode-icon-issue#readme",
+  "devDependencies": {
+    "typescript": "^4.3.5"
+  }
+}
